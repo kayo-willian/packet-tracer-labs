@@ -4,7 +4,7 @@ A growing collection of hands-on networking labs built in Cisco Packet
 Tracer while learning networking fundamentals from the ground up.
 
 Each lab documents the topology, the configuration steps, the problems I
-ran into along the way, and what I actually learned from solving them —
+ran into along the way, and what I actually learned from solving them,
 not just the final working setup.
 
 ## Labs
