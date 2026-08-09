@@ -116,8 +116,3 @@ two routers instead of one, each hop decrements TTL by 1.
   have saved a lot of back and forth.
 - TTL decreasing by 1 per hop is a simple but useful way to confirm how
   many routers a packet actually passed through.
-
-## Next step
-Add a third router or a fourth network to practice static routes with more
-than two hops, where a router needs a route to a network that is not
-directly next to it either.
