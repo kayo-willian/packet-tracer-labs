@@ -5,7 +5,7 @@ Connect two PCs on different networks (192.168.1.0/24 and 192.168.2.0/24)
 through a single router and get them to communicate with each other.
 
 ## Topology
-![topology](topologia.png)
+![topology](topology.png)
 
 ```
 PC0 -- Switch0 -- G0/0 [Router] G0/1 -- Switch1 -- PC1
