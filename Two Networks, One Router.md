@@ -34,7 +34,7 @@ default-router 192.168.2.1
 ```
 
 ## Problem found and fix
-PC1 could not ping PC0. The cause was an incomplete DHCP pool configuration —
+PC1 could not ping PC0. The cause was an incomplete DHCP pool configuration,
 the default gateway wasn't being correctly assigned to one of the PCs.
 After reviewing and completing the pool configuration, the PC picked up the
 correct gateway and the ping succeeded, with a TTL of 127 confirming the
