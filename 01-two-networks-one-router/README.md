@@ -61,6 +61,3 @@ Packets: Sent = 4, Received = 4, Lost = 0 (0% loss)
   the packet out of.
 - A lower TTL on a ping response is a sign that the packet passed through at
   least one router (each hop decrements TTL by 1).
-
-## Next step
-Redo this same lab using static IP addressing instead of DHCP.
