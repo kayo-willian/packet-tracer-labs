@@ -1,2 +1,17 @@
-# packet-tracer-labs
-A collection of networking labs in Cisco Packet Tracer, documenting what I learn as I build them.
+# Networking Labs — Cisco Packet Tracer
+
+A growing collection of hands-on networking labs built in Cisco Packet
+Tracer while learning networking fundamentals from the ground up.
+
+Each lab documents the topology, the configuration steps, the problems I
+ran into along the way, and what I actually learned from solving them —
+not just the final working setup.
+
+## Labs
+
+| # | Topic | Concepts |
+|---|-------|----------|
+| 01 | Two Networks, One Router | Routing, default gateway, DHCP, subnetting |
+
+More labs will be added as I go deeper into networking.
+
