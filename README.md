@@ -15,6 +15,7 @@ not just the final working setup.
 | 02 | Three Networks, Two Routers | Static routing, multiple routers, DHCP |
 | 03 | Branch and Headquarters | Inter site communication, static routing, DHCP, client/server |
 | 04 | DNS Server | DNS resolution, A record, static IP, HTTP service |
+| 05 | - | - |
 
 
 More labs will be added as I go deeper into networking.
