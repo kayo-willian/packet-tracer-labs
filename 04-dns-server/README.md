@@ -6,7 +6,7 @@ instead of its raw IP address, and see what happens when a PC tries to
 reach that name before DNS is configured on it.
 
 ## Topology
-![topology](images/topology.png)
+![topology](topology.png)
 
 ```
 PC0, PC1 -- Switch0 -- Router0 -- Switch1 -- Server0 (DNS + Web)
@@ -31,7 +31,7 @@ PC0, PC1 -- Switch0 -- Router0 -- Switch1 -- Server0 (DNS + Web)
 ## DNS configuration
 DNS service enabled on Server0, with a single A record:
 
-![dns config](images/dns-config.png)
+![dns config](dns-config.png)
 
 | Name | Type | Address |
 |------|------|---------|
@@ -181,12 +181,12 @@ once DNS resolution worked. Full source below.
 Before setting the DNS Server field on the PC, typing the domain name
 fails, the PC has no way to translate it into an IP:
 
-![before, host name unresolved](images/before.png)
+![before, host name unresolved](before.png)
 
 After the DNS Server field was set to `192.168.2.10`, the same URL
 resolves correctly and loads the page:
 
-![after, page loaded](images/after.png)
+![after, page loaded](after.png)
 
 ## Problem found
 While reviewing the PC configuration screenshots for this README, one of
