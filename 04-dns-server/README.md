@@ -212,8 +212,3 @@ subnet.
 - Double checking every IP field carefully matters, a single typo in a
   gateway address is easy to miss and can silently break connectivity for
   that device later.
-
-## Next step
-Fix the gateway typo on PC1 and confirm it can resolve and reach the site
-too, then try adding a second A record for a different name pointing to
-the same or a different server.
