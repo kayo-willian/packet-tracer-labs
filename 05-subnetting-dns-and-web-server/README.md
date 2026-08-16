@@ -11,7 +11,7 @@ address, host range, broadcast address, and how a router connects
 separate subnets through different interfaces.
 
 ## Topology
-![topology](images/01-topology.png)
+![topology](topology.png)
 
 ```
 IT SECTOR                HR SECTOR                SERVERS SECTOR
@@ -51,12 +51,12 @@ field points to `192.168.1.34`, the same server running the DNS service.
 - Static IP addressing on every PC and on the server, no DHCP in this lab.
 
 Router interfaces confirmed active with `show ip interface brief`:
-![router interfaces](images/02-router-interfaces.png)
+![router interfaces](router-interfaces.png)
 
 ## DNS configuration
 DNS service enabled on Server-PT, with a single A record:
 
-![dns record](images/03-dns-record.png)
+![dns record](dns-record.png)
 
 | Name | Type | Address |
 |------|------|---------|
@@ -87,7 +87,7 @@ the server is online and identifying it as a lab environment.
 ```
 
 Accessed by domain name (not by raw IP) from a PC on the IT subnet:
-![web page accessed by domain](images/04-web-page.png)
+![web page accessed by domain](web-page.png)
 
 ## Connectivity tests
 
@@ -118,7 +118,7 @@ Reply from 192.168.1.34: bytes=32 time=1ms TTL=127
 Ping statistics for 192.168.1.34:
 Packets: Sent = 4, Received = 4, Lost = 0 (0% loss)
 ```
-![connectivity test](images/05-connectivity-test.png)
+![connectivity test](connectivity-test.png)
 
 This confirms IT-0 (IT subnet) successfully reaching HR-0 (HR subnet)
 through the router, and reaching the server (Servers subnet) directly by
