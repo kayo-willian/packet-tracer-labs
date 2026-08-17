@@ -18,5 +18,14 @@ not just the final working setup.
 | 05 | Subnetting, DNS and Web Server | Subnetting (VLSM), static IP, DNS, HTTP/Web service |
 | 06 | VLANs with Router on a Stick | VLAN, trunk, subinterfaces, dot1Q encapsulation |
 
+## Projects
 
-More labs will be added as I go deeper into networking.
+Larger, self designed challenges, where the requirements are given but the
+topology, addressing, and architecture decisions are entirely mine.
+
+| Name | Description |
+|------|--------------|
+| [TechNova Solutions](projects/technova-solutions) | Full corporate network for a company with 1 headquarters and 2 branches. 72 PCs across 7 departments, VLAN segmentation, inter-VLAN routing (Router on a Stick), static routing between sites, DHCP per VLAN, and a DNS server at headquarters, reachable from every location. No given topology, addressing, or VLAN IDs, all decided from requirements alone. |
+
+
+More labs and projects will be added as I go deeper into networking.
