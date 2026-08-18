@@ -25,7 +25,7 @@ topology, addressing, and architecture decisions are entirely mine.
 
 | Name | Description |
 |------|--------------|
-| [TechNova Solutions](projects/technova-solutions) | Full corporate network for a company with 1 headquarters and 2 branches. 72 PCs across 7 departments, VLAN segmentation, inter-VLAN routing (Router on a Stick), static routing between sites, DHCP per VLAN, and a DNS server at headquarters, reachable from every location. No given topology, addressing, or VLAN IDs, all decided from requirements alone. |
+| [TechNova Solutions](projects/technova-solutions) | Corporate network project with 1 headquarters and 2 branches, featuring VLAN segmentation, inter-VLAN routing, static routing, DHCP, network printers, and a centralized DNS server. The entire topology and addressing scheme are designed from requirements without a predefined solution. |
 
 
 More labs and projects will be added as I go deeper into networking.
