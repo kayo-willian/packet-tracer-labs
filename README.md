@@ -17,6 +17,8 @@ not just the final working setup.
 | 04 | DNS Server | DNS resolution, A record, static IP, HTTP service |
 | 05 | Subnetting, DNS and Web Server | Subnetting (VLSM), static IP, DNS, HTTP/Web service |
 | 06 | VLANs with Router on a Stick | VLAN, trunk, subinterfaces, dot1Q encapsulation |
+| 07 | TechNova Solutions | VLAN, subnetting, branch and HQ, inter-site communication, DHCP|
+
 
 ## Projects
 
