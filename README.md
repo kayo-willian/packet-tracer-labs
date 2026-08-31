@@ -9,27 +9,23 @@ not just the final working setup.
 
 ## About the documentation
 
-Documentation quality here reflects my own progress as a learner, and I am
-keeping it that way on purpose instead of rewriting history. Labs 01 to 07
-were early practice, with lighter, mostly informal notes. Starting with
-Lab 08, I adopted a more detailed format: a full IP addressing table, every
-CLI command used, explicit errors I ran into and how I fixed them, and a
-verification section with command output. New labs going forward follow
-this same detailed format, and I plan to revisit some of the earlier ones
-as time allows.
+My documentation style has evolved over time as I learned more, so newer
+labs are naturally more detailed than the earliest ones. Each entry below
+links straight to that lab's own README, where you can see exactly what
+level of detail it has.
 
 ## Labs
 
-| # | Topic | Concepts | Docs |
+| # | Topic | Concepts | Date |
 |---|-------|----------|------|
-| 01 | Two Networks, One Router | Routing, default gateway, DHCP, subnetting | Basic |
-| 02 | Three Networks, Two Routers | Static routing, multiple routers, DHCP | Basic |
-| 03 | Branch and Headquarters | Inter site communication, static routing, DHCP, client/server | Basic |
-| 04 | DNS Server | DNS resolution, A record, static IP, HTTP service | Basic |
-| 05 | Subnetting, DNS and Web Server | Subnetting (VLSM), static IP, DNS, HTTP/Web service | Basic |
-| 06 | VLANs with Router on a Stick | VLAN, trunk, subinterfaces, dot1Q encapsulation | Basic |
-| 07 | TechNova Solutions | VLAN, subnetting, branch and HQ, inter-site communication, DHCP | Basic |
-| 08 | OSPF Across 4 Cities (Ring Topology) | OSPF, VLAN, Router on a Stick, DHCP, ring topology, troubleshooting | Detailed |
+| 01 | [Two Networks, One Router](labs/01-two-networks-one-router/README.md) | Routing, default gateway, DHCP, subnetting | MM/YYYY |
+| 02 | [Three Networks, Two Routers](labs/02-three-networks-two-routers/README.md) | Static routing, multiple routers, DHCP | MM/YYYY |
+| 03 | [Branch and Headquarters](labs/03-branch-and-headquarters/README.md) | Inter site communication, static routing, DHCP, client/server | MM/YYYY |
+| 04 | [DNS Server](labs/04-dns-server/README.md) | DNS resolution, A record, static IP, HTTP service | MM/YYYY |
+| 05 | [Subnetting, DNS and Web Server](labs/05-subnetting-dns-web-server/README.md) | Subnetting (VLSM), static IP, DNS, HTTP/Web service | MM/YYYY |
+| 06 | [VLANs with Router on a Stick](labs/06-vlans-router-on-a-stick/README.md) | VLAN, trunk, subinterfaces, dot1Q encapsulation | MM/YYYY |
+| 07 | [TechNova Solutions](labs/07-technova-solutions/README.md) | VLAN, subnetting, branch and HQ, inter-site communication, DHCP | MM/YYYY |
+| 08 | [OSPF Across 4 Cities (Ring Topology)](labs/08-ospf-4-cities/README.md) | OSPF, VLAN, Router on a Stick, DHCP, ring topology, troubleshooting | 08/2026 |
 
 ## Projects
 
