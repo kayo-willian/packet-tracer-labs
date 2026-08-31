@@ -18,14 +18,14 @@ level of detail it has.
 
 | # | Topic | Concepts | Date |
 |---|-------|----------|------|
-| 01 | [Two Networks, One Router](labs/01-two-networks-one-router/README.md) | Routing, default gateway, DHCP, subnetting | MM/YYYY |
-| 02 | [Three Networks, Two Routers](labs/02-three-networks-two-routers/README.md) | Static routing, multiple routers, DHCP | MM/YYYY |
-| 03 | [Branch and Headquarters](labs/03-branch-and-headquarters/README.md) | Inter site communication, static routing, DHCP, client/server | MM/YYYY |
-| 04 | [DNS Server](labs/04-dns-server/README.md) | DNS resolution, A record, static IP, HTTP service | MM/YYYY |
-| 05 | [Subnetting, DNS and Web Server](labs/05-subnetting-dns-web-server/README.md) | Subnetting (VLSM), static IP, DNS, HTTP/Web service | MM/YYYY |
-| 06 | [VLANs with Router on a Stick](labs/06-vlans-router-on-a-stick/README.md) | VLAN, trunk, subinterfaces, dot1Q encapsulation | MM/YYYY |
-| 07 | [TechNova Solutions](labs/07-technova-solutions/README.md) | VLAN, subnetting, branch and HQ, inter-site communication, DHCP | MM/YYYY |
-| 08 | [OSPF Across 4 Cities (Ring Topology)](labs/08-ospf-4-cities/README.md) | OSPF, VLAN, Router on a Stick, DHCP, ring topology, troubleshooting | 08/2026 |
+| 01 | [Two Networks, One Router](01-two-networks-one-router/README.md) | Routing, default gateway, DHCP, subnetting | MM/YYYY |
+| 02 | [Three Networks, Two Routers](02-three-networks-two-routers/README.md) | Static routing, multiple routers, DHCP | MM/YYYY |
+| 03 | [Branch and Headquarters](03-branch-and-headquarters/README.md) | Inter site communication, static routing, DHCP, client/server | MM/YYYY |
+| 04 | [DNS Server](04-dns-server/README.md) | DNS resolution, A record, static IP, HTTP service | MM/YYYY |
+| 05 | [Subnetting, DNS and Web Server](05-subnetting-dns-web-server/README.md) | Subnetting (VLSM), static IP, DNS, HTTP/Web service | MM/YYYY |
+| 06 | [VLANs with Router on a Stick](06-vlans-router-on-a-stick/README.md) | VLAN, trunk, subinterfaces, dot1Q encapsulation | MM/YYYY |
+| 07 | [TechNova Solutions](07-technova-solutions/README.md) | VLAN, subnetting, branch and HQ, inter-site communication, DHCP | MM/YYYY |
+| 08 | [OSPF Across 4 Cities (Ring Topology)](08-ospf/README.md) | OSPF, VLAN, Router on a Stick, DHCP, ring topology, troubleshooting | 08/2026 |
 
 ## Projects
 
