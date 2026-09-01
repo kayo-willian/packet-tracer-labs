@@ -26,6 +26,7 @@ level of detail it has.
 | 06 | [VLANs with Router on a Stick](06-vlan-router-on-a-stick/README.md) | VLAN, trunk, subinterfaces, dot1Q encapsulation |
 | 07 | [TechNova Solutions](07-technova-solutions/README.md) | VLAN, subnetting, branch and HQ, inter-site communication, DHCP |
 | 08 | [OSPF Across 4 Cities (Ring Topology)](08-ospf/README.md) | OSPF, VLAN, Router on a Stick, DHCP, ring topology, troubleshooting |
+| 09 | [OSPF Multi-Area Network Between Two Simulated Sites](09-ospf-multi-area-network-between-two-simulated-sites/README.md) | OSPF multi-area, Area 0, ABR, intra-area and inter-area routing, VLAN, Router on a Stick, DHCP, troubleshooting |
 
 ## Projects
 
