@@ -1,5 +1,7 @@
 # Lab 09: OSPF Multi-Area Network Between Two Simulated Sites
 
+![Network Topology](images/topology.png)
+
 ## Overview
 
 This lab simulates a small company with two different sites in the state of Pará, Brazil: Castanhal and Abaetetuba. Each site has its own router, switch, VLAN and PC representing the local user network. The sites are connected through four routers using OSPF in a multi-area design.
@@ -34,8 +36,6 @@ The network is divided into three OSPF areas.
 - Area 2 contains R4 and the Abaetetuba LAN.
 - R2 connects Area 1 to Area 0 and operates as an ABR.
 - R3 connects Area 0 to Area 2 and operates as an ABR.
-
-![Full topology](images/topology-full.png)
 
 The physical topology is a straight line with no multiaccess segment between multiple routers. Each point to point connection contains only two routers.
 
