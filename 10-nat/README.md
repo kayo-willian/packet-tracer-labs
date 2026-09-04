@@ -1,13 +1,6 @@
 # Lab 10 — Network Address Translation (NAT)
 
-<!--
-Add the Packet Tracer topology image below.
-Suggested path after adding the image to the repository:
-
-![Lab 10 - NAT Topology](./images/lab10-nat-topology.png)
--->
-
-<br><br><br><br><br><br>
+![Network Topology](images/topology.png)
 
 ## Overview
 
