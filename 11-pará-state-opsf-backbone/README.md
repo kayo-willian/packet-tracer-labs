@@ -2,7 +2,7 @@
 
 ## Overview
 
-![Backbone topology diagram](./images/topologia-backbone.png)
+![Backbone topology diagram](./images/topology-backbone.png)
 
 This lab simulates a statewide corporate backbone interconnecting **10 sites** across the state of Pará (Belém, Castanhal, Paragominas, Marabá, Redenção, Altamira, Itaituba, Santarém, Óbidos and Oriximiná), built in Cisco Packet Tracer as part of my Network Administrator training (SENAC).
 
