@@ -28,6 +28,7 @@ level of detail it has.
 | 08 | [OSPF Across 4 Cities (Ring Topology)](08-ospf/README.md) | OSPF, VLAN, Router on a Stick, DHCP, ring topology, troubleshooting |
 | 09 | [OSPF Multi-Area Network Between Two Simulated Sites](09-ospf-multi-area-network-between-two-simulated-sites/README.md) | OSPF multi-area, Area 0, ABR, intra-area and inter-area routing, VLAN, Router on a Stick, DHCP, troubleshooting |
 | 10 | [Network Address Translation (NAT)](10-nat/README.md) | Static NAT, Dynamic NAT, PAT, NAT Overload, ACL, NAT Pool |
+| 11 | [Pará State OSPF Backbone (10-Site Ring Topology)](11-pará-state-opsf-backbone/README.md) | OSPF single-area (10 routers), ring topology, VLAN, Router on a Stick, DHCP, NAT/PAT, default route redistribution, fault tolerance |
 
 ## Projects
 
